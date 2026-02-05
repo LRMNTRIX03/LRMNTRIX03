@@ -51,17 +51,7 @@
 
 
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LRMNTRIX03&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LRMNTRIX03&theme=tokyonight" />
-</p>
-
----
 
 ## Contact Me
 
