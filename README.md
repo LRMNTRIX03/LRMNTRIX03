@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lutfi Rizaldi Mahida</h1>
+<h1 align="center">Hi, I'm Lutfi Rizaldi Mahida</h1>
 <h3 align="center">Full Stack Developer | AI & Web Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate in building modern web applications, AI systems, and scalable software solutions.
+  Passionate in building modern web applications, AI systems, and scalable software solutions.
 </p>
 
 
@@ -56,9 +56,8 @@
 ## Contact Me
 
 <p>
-  📧 Email: your-email@gmail.com <br>
-  💼 LinkedIn: https://linkedin.com/in/your-profile <br>
-  🌐 Portfolio: https://your-portfolio.com
+  📧 Email: rizaldilutfi1@gmail.com@gmail.com <br>
+  💼 LinkedIn: https://linkedin.com/in/lutfi-rizaldi-mahida <br>
 </p>
 
 ---
