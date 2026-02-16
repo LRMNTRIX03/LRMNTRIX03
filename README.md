@@ -43,7 +43,7 @@
 
 
 
-### 🔍 AI & Data
+### AI & Data
 - Sentiment Analysis System
 - Chatbot App Using Multinomial Naive Bayes & KNN
 
@@ -56,8 +56,8 @@
 ## Contact Me
 
 <p>
-  📧 Email: rizaldilutfi1@gmail.com@gmail.com <br>
-  💼 LinkedIn: https://linkedin.com/in/lutfi-rizaldi-mahida <br>
+  Email: rizaldilutfi1@gmail.com@gmail.com <br>
+  LinkedIn: https://linkedin.com/in/lutfi-rizaldi-mahida <br>
 </p>
 
 ---
