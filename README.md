@@ -56,7 +56,7 @@
 ## Contact Me
 
 <p>
-  Email: rizaldilutfi1@gmail.com@gmail.com <br>
+  Email: rizaldilutfi1@gmail.com <br>
   LinkedIn: https://linkedin.com/in/lutfi-rizaldi-mahida <br>
 </p>
 
